@@ -1,0 +1,8 @@
+<svg height="64" viewBox="-20 -5 240 285" xmlns="http://www.w3.org/2000/svg"><rect x="-20" y="-5" width="240" height="285" rx="40" fill="#100923"/><defs><linearGradient id="liqf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#A788C4"/><stop offset="1" stop-color="#B23FD6"/></linearGradient></defs>
+<g fill="none" stroke="#F7F3FF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<path d="M100 12 C122 44 140 92 142 150 L142 218 H58 L58 150 C60 92 78 44 100 12 Z"/><path d="M82 72 H118"/>
+<path d="M58 140 L22 196 V230 L58 206"/><path d="M142 140 L178 196 V230 L142 206"/>
+<path d="M86 106 H114 M91 106 V140 L66 196 Q61 208 75 208 H125 Q139 208 134 196 L109 140 V106"/>
+<path d="M8 118 V168 M192 118 V168" stroke-width="4.2"/><path d="M88 232 V250 M100 232 V266 M112 232 V250" stroke-width="5.25"/></g>
+<path d="M73 178 Q86 170 99 177 T127 176 L134 196 Q139 208 125 208 H75 Q61 208 66 196 Z" fill="url(#liqf)"/>
+<circle cx="96" cy="160" r="4" fill="#F7F3FF"/><path d="M112 186 a7 7 0 1 0 6 -9 a5.5 5.5 0 1 1 -6 9 Z" fill="#F7F3FF"/></svg>
